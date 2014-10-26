@@ -12,4 +12,8 @@ we must have a bright future!
 
 write a little code
 
-creating a new branch is quick & simple
+<<<<<<< HEAD
+creating a new branch is quick and simple
+=======
+creating a new branch is quick and simple
+>>>>>>> feature1
