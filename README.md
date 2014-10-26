@@ -3,6 +3,7 @@ learngit
 
 the repository for learning git 
 
+ok well  just add this line 
 
 thanks for learning git, you are a good boy
 
