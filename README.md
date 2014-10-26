@@ -11,3 +11,5 @@ thanks for learning git, you are a good boy
 we must have a bright future!
 
 write a little code
+
+creating a new branch is quick & simple
