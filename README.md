@@ -12,4 +12,7 @@ we must have a bright future!
 
 write a little code
 
+<<<<<<< HEAD
 learn git end
+=======
+>>>>>>> master
